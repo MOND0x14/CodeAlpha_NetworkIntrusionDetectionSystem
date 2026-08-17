@@ -108,13 +108,13 @@ CodeAlpha_NetworkIntrusionDetectionSystem/
 
 The screenshot demonstrates Suricata running successfully on the monitored network interface.
 
-![Suricata Running](screenshots/suricata-running.png)
+![Suricata Running](suricata-running.png)
 
 ### ICMP Detection Alert
 
 The screenshot demonstrates the custom ICMP detection rule successfully identifying network traffic and generating an alert.
 
-![Detection Alert](screenshots/detection-alert.png)
+![Detection Alert](detection-alert.png)
 
 ## Security Concepts Demonstrated
 
